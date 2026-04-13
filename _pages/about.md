@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prem Kumar Reddy Podupu"
+title: "Prem K. Reddy"
 author_profile: true
 redirect_from:
   - /about/
