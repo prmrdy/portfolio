@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Prem K. Reddy"
+title: "Prem Kumar Reddy Podupu"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+<div class="home-about">
 
 I am a Postdoctoral Associate in Chemical Engineering at the Massachusetts Institute of Technology (MIT), where I work with Prof. Allan Myerson.
 
@@ -16,3 +18,5 @@ My work spans molecular dynamics, microkinetic and population balance modeling, 
 Before joining MIT, I completed my PhD in Chemical Engineering at the University of Illinois Chicago under the guidance of Prof. Meenesh Singh. I also hold an MTech in Chemical Engineering from IIT Madras and a BTech in Chemical Engineering from Jawaharlal Nehru Technological University.
 
 This website brings together my publications, research activities, teaching experience, and professional background.
+
+</div>
