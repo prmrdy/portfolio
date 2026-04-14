@@ -1,0 +1,9 @@
+---
+title: "MOF Growth and Particle Engineering"
+excerpt: "Mechanistic modeling and in-situ characterization of framework synthesis, thin-film growth, and particle breakage.<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+This research area brings together my work on metal-organic frameworks, covalent organic frameworks, and particle engineering. I study nucleation, growth, and structural evolution using microkinetic modeling alongside in-situ techniques such as GIWAXS, SAXS, and EXAFS.
+
+It also connects to my work on wet milling and population balance modeling, where I develop analytical and computational approaches to describe fragmentation and particle-size evolution. Across these projects, the emphasis is on building mechanistic models that are both scientifically informative and useful for process design.
