@@ -52,6 +52,8 @@
   overflow-wrap: anywhere;
 }
 
-.home-about p {
-  text-align: justify;
+.sidebar .author__urls li,
+.sidebar .author__urls a {
+  white-space: normal;
+  overflow-wrap: anywhere;
 }
