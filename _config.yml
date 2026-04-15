@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Prem Kumar Reddy Podupu"
+title                    : "Prem K. Reddy"
 title_separator          : "-"
-name                     : &name "Prem Kumar Reddy Podupu"
-description              : &description "Personal academic website of Prem Kumar Reddy Podupu, Postdoctoral Associate in Chemical Engineering at MIT."
+name                     : &name "Prem K. Reddy"
+description              : &description "Personal academic website of Prem K. Reddy, Postdoctoral Associate in Chemical Engineering at MIT."
 url                      : https://prmrdy.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "prmrdy/portfolio"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Prem Kumar Reddy Podupu"
+  name             : "Prem K. Reddy"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Associate in Chemical Engineering at MIT working on crystallization, molecular modeling, and materials synthesis."
   location         : "Cambridge, MA"

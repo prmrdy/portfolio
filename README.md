@@ -1,4 +1,4 @@
-# Prem Kumar Reddy Podupu
+# Prem K. Reddy
 
 Postdoctoral Associate in Chemical Engineering at MIT.
 
