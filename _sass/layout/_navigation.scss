@@ -175,6 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
+  width: 100%;
   background: var(--global-bg-color);
   display: flex;
   justify-content: flex-end;
@@ -207,6 +208,7 @@
   .visible-links {
     display: flex;
     justify-content: flex-end;
+    margin-left: auto;
     width: 100%;
 
     li {
