@@ -203,6 +203,7 @@
     color: var(--global-text-color);
     cursor: pointer;
     z-index: 100;
+    display: none !important;
   }
 
   .visible-links {
@@ -210,6 +211,7 @@
     justify-content: flex-end;
     margin-left: auto;
     width: 100%;
+    flex-wrap: wrap;
 
     li {
       display: block;
@@ -258,6 +260,7 @@
   }
 
   .hidden-links {
+    display: none !important;
     position: absolute;
     top: 100%;
     right: 0;
