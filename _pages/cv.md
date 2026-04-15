@@ -23,13 +23,10 @@ Education
 * Postdoctoral Associate, Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA, January 2026 to Present
   * PI: Prof. Allan Myerson
 * Ph.D., Chemical Engineering, University of Illinois Chicago, Chicago, IL, USA, August 2020 to December 2025
-  * GPA: 3.61/4.0
   * PI: Prof. Meenesh Singh
 * M.Tech., Chemical Engineering, Indian Institute of Technology Madras, Chennai, TN, India, August 2017 to May 2019
-  * GPA: 9.08/10
   * PI: Prof. S. Pushpavanam
 * B.Tech., Chemical Engineering, Jawaharlal Nehru Technological University, Andhra Pradesh, India, August 2012 to May 2016
-  * Percentage: 69.07%
 
 Research and Professional Experience
 ======
@@ -92,12 +89,3 @@ Talks and Presentations
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-References
-======
-* Dr. Meenesh Singh
-  * Associate Professor, University of Illinois Chicago
-  * Ph.D. advisor
-* Dr. Gaurav Giri
-  * Assistant Professor, University of Virginia
-  * Ph.D. project collaborator
