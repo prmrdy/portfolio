@@ -23,7 +23,7 @@ repository               : "prmrdy/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshots/prem-k-reddy-headshot-formal-tight.jpg"
+  avatar           : "headshots/profile.jpg"
   name             : "Prem K. Reddy"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Associate, Chemical Engineering, MIT"
