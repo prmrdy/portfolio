@@ -69,13 +69,15 @@
 .masthead__menu-item.selected a {
   color: var(--global-text-color);
   font-weight: 700;
-  border-bottom: 2px solid var(--global-text-color);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.09) 0%, rgba(36, 183, 214, 0.06) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.22);
   pointer-events: none; /* Move this here */
   cursor: default; /* Move this here too */
 }
 
 .masthead__menu-item.selected a:hover {
   color: var(--global-text-color);
-  border-bottom: 2px solid var(--global-text-color);
+  transform: none;
   /* No need to repeat pointer-events and cursor here */
 }
