@@ -176,6 +176,8 @@
   position: relative;
   min-width: 250px;
   background: var(--global-bg-color);
+  display: flex;
+  justify-content: flex-end;
 
   a {
     display: block;
@@ -203,20 +205,13 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
 
     li {
-      display: table-cell;
+      display: block;
       vertical-align: middle;
-
-      &:first-child {
-        font-weight: bold;
-        text-wrap: wrap;
-
-        a {
-          margin-left: 0;
-        }
-      }
 
       &:last-child {
         a {
