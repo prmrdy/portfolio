@@ -1,22 +1,47 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Mechanism of Evaporation-Driven Growth of Metal-Organic Framework Thin Films<br />AIChE Annual Meeting 2024; San Diego, California, USA",
+    32.7174202,
+    -117.162772
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Biphasic Nature of Supersaturated Solutions Increases Induction Time Variation in Crystallization<br />AIChE Annual Meeting 2023; Orlando, Florida, USA",
+    28.5421218,
+    -81.379045
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Two-Step Nucleation Mechanism Drives Crystal Structure Formation by Selective Desolvation<br />AIChE Annual Meeting 2022; Phoenix, Arizona, USA",
+    33.4484367,
+    -112.074141
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Towards a Better Understanding of Crystallization Mechanisms with Modeling<br />AIChE Annual Meeting 2024; San Diego, California, USA",
+    32.7174202,
+    -117.162772
+  ],
+  [
+    "Analytical Solution to the Discretized PBEs for Pure Breakage with Application to Kernel Identification<br />8th International Conference on Population Balance Modeling (PBM2025); Purdue University, West Lafayette, Indiana, USA",
+    40.430028,
+    -86.9264211
+  ],
+  [
+    "A Microkinetic Model for Understanding the Synthesis of Thin Film Metal Organic Framework Using Solution Shearing Based Evaporative Crystallization<br />AIChE Annual Meeting 2022; Phoenix, Arizona, USA",
+    33.4484367,
+    -112.074141
+  ],
+  [
+    "Hydrogen Energy - A Review<br />ISRO and IIChE Convention 2016; Nellore, Andhra Pradesh, India",
+    14.4493717,
+    79.9873763
+  ],
+  [
+    "Understanding the Complex Breakage Kernels with Graph-Theoretic Based Population Balance Model<br />AIChE Annual Meeting 2023; Orlando, Florida, USA",
+    28.5421218,
+    -81.379045
+  ],
+  [
+    "Molecular Simulations Unravel the Dynamics of Oiling Out of beta-Alanine<br />AIChE Annual Meeting 2021; Boston, Massachusetts, USA",
+    42.3588336,
+    -71.0578303
   ]
 ];
