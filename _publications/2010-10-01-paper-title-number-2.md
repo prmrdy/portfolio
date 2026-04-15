@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Analytical Solution to the Discretized Population Balance Equation for Pure Breakage with Application to Kernel Identification"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/analytical-solution-population-balance-breakage
+excerpt: 'An analytical treatment of discretized population balance equations for pure breakage, paired with kernel identification and experimental validation.'
+date: 2025-01-01
+venue: 'Chemical Engineering Research and Design'
+citation: 'Prem K. R. Podupu, Vamsi Vikram Gande, Raghavendra Hari, Akshay Korde, Sharad Maheshwari, Nandkishor K. Nere, and Meenesh R. Singh. (2025). &quot;Analytical Solution to the Discretized Population Balance Equation for Pure Breakage with Application to Kernel Identification.&quot; <i>Chemical Engineering Research and Design</i> 217: 295-303.'
 ---
+This paper develops an analytical solution framework for breakage population balance equations using eigen-decomposition, enabling more direct interpretation and kernel identification.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The work links theoretical development with wet-milling experiments and particle-size analysis.
